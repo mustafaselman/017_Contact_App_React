@@ -25,6 +25,7 @@ function Form({ setContact, contacts })
     if(e.target.name === "add"){
         if (form.fullname === '' || form.phone_number === '')
         {
+            alert("PLEASE FILL INPUTS");
             return false;
         }
         setContact([ ...contacts, form ]);
