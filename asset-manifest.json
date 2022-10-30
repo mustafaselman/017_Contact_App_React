@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mustafaselman/017_Contact_App_React/static/css/main.f6b38a41.css",
+    "main.js": "/mustafaselman/017_Contact_App_React/static/js/main.ce5d6bc1.js",
+    "static/js/787.c45cc61a.chunk.js": "/mustafaselman/017_Contact_App_React/static/js/787.c45cc61a.chunk.js",
+    "index.html": "/mustafaselman/017_Contact_App_React/index.html",
+    "main.f6b38a41.css.map": "/mustafaselman/017_Contact_App_React/static/css/main.f6b38a41.css.map",
+    "main.ce5d6bc1.js.map": "/mustafaselman/017_Contact_App_React/static/js/main.ce5d6bc1.js.map",
+    "787.c45cc61a.chunk.js.map": "/mustafaselman/017_Contact_App_React/static/js/787.c45cc61a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6b38a41.css",
+    "static/js/main.ce5d6bc1.js"
+  ]
+}
